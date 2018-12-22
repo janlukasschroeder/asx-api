@@ -1,0 +1,28 @@
+{
+  "name": "asx-api",
+  "version": "1.0.0",
+  "description": "asx.com.au real-time API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janlukasschroeder/asx-api.git"
+  },
+  "keywords": [
+    "asx.com.au",
+    "real-time",
+    "API",
+    "Filing",
+    "Announcement",
+    "Company",
+    "Information"
+  ],
+  "author": "Jan Schroeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janlukasschroeder/asx-api/issues"
+  },
+  "homepage": "https://github.com/janlukasschroeder/asx-api#readme"
+}
